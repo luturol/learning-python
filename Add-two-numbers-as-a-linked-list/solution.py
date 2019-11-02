@@ -41,5 +41,3 @@ result = Solution().addTwoNumbers(list1,list2)
 while result:
     print(result.value)
     result = result.next
-
-
